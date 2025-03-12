@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joefolorunsho
-- 👀 I’m interested in graphics design
-- 🌱 I’m currently learning graphics design
+- 👀 I’m interested in Data Analytics 
+- 🌱 I’m currently learning data analytics 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me https://mobile.twitter.com/joefolorunsho
 
